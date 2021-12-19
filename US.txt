@@ -1,0 +1,1 @@
+Los Angeles 🇺🇸 = ShadowsocksR,85.209.158.210,30033,none,"dongtaiwang.com",protocol=auth_chain_a,obfs=tls1.2_ticket_auth,fast-open=false,udp=false
