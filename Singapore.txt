@@ -1,1 +1,1 @@
-https://example/server-complete.txt
+🇸🇬 = Shadowsocks,13.250.54.192,3919,chacha20-ietf-poly1305,"ETE6J44bH3zI",fast-open=false,udp=false
