@@ -1,1 +1,1 @@
-🇸🇬 = Shadowsocks,13.250.54.192,3919,chacha20-ietf-poly1305,"ETE6J44bH3zI",fast-open=false,udp=false
+🇸🇬 = Shadowsocks,188.166.219.46,7539,chacha20-ietf-poly1305,"dflWKmPod0b9",fast-open=false,udp=false
