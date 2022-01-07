@@ -1,2 +1,3 @@
 SG🇸🇬 = Shadowsocks,188.166.219.46,7539,chacha20-ietf-poly1305,"dflWKmPod0b9",fast-open=false,udp=false
 SG🇸🇬2 = Shadowsocks,sg1socks.ipservers.xyz,1443,aes-256-cfb,"JJLJRRAf",fast-open=false,udp=false
+US🇺🇸 = vmess,us.vmes.xyz,443,chacha20-ietf-poly1305,"7431b232-3a73-4067-acf1-dc7ce0763507",transport=ws,path=/JAGOANSSH/,host=google.com,over-tls=true,tls-name=google.com
